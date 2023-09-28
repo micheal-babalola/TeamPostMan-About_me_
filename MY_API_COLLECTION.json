@@ -1,9 +1,10 @@
 {
 	"info": {
-		"_postman_id": "0076761e-80ca-4088-a056-56e02c127ecd",
+		"_postman_id": "32f3e4ca-3303-4028-8749-dae423652c79",
 		"name": "STSTStudentCourse",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_exporter_id": "29587087"
+		"_exporter_id": "29587087",
+		"_collection_link": "https://www.postman.com/galactic-robot-939378/workspace/stst/collection/29587087-32f3e4ca-3303-4028-8749-dae423652c79?action=share&source=collection_link&creator=29587087"
 	},
 	"item": [
 		{
